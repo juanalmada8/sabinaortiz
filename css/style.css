@@ -935,7 +935,7 @@ ul.social-slide li i.mac{
 	margin: 0 0 2em;
 	font-family:Comfortaa-Regular;
 	text-transform: capitalize;
-	text-align: center;
+	text-indent: 15px;
 }
 .contact-form-left h4,.contact-form-right h4{
 	color: #F54785;
@@ -1039,8 +1039,9 @@ ul.social-slide li i.mac{
 	color:#fff;
 	background:rgba(76, 194, 196, 0.82);
 	font-size:14px;
-	margin:0;
-	padding: 1em 4em;
+	margin:4.5px;
+	margin-top: 12px;
+	padding: 6px 24px;
 	}
 /*-- //about --*/
 /*-- services --*/
